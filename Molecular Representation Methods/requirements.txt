@@ -1,0 +1,6 @@
+rdkit
+requests
+pandas
+deepchem
+torch
+torch_geometric
