@@ -1,6 +1,6 @@
 🧪 Welcome to PolyBites 🧬
 
-This repository contains a collection of useful, well-documented code snippets to help you get started with machine learning for chemistry — with a special focus on polymer science.
+This repository contains a collection of useful, well-documented code snippets to help you get started with machine learning for chemistry with a special focus on polymer science.
 
 🚧 Ongoing Development
 
