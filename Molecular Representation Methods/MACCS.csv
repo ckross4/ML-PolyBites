@@ -1,0 +1,167 @@
+Placeholder
+Isotopes
+Atoms with atomic number > 103
+"Group IVA, VA and VIA periods 4-6"
+Actinides
+"Group IIIB, IVB elements"
+Lanthanides
+"Group VB, VIB, VIIB elements"
+Heteroatoms in 4-membered rings
+Group VIIIB elements
+Alkaline earth elements
+Atoms in 4 ring
+"Group IB, IIB elements"
+N connected to 1 O and 2 C
+S atoms in S-S groups
+C connected to 3 O
+Heteroatoms in 3-membered rings
+C in CC triple bonds
+Group IIIA elements
+Atoms in 7 ring
+Silicon atoms
+C = bonded to C and 3 heavy atoms
+Atoms in 3 ring
+C bonded 1 N and 2 O
+O-N single bonds
+C bonded to at least 3 N atoms
+C in 3 ring bonds and a double bond
+Iodine atoms
+"XCH2X, where X<>C"
+Phosphorous atoms
+Non-C Q4 bonded to >= 3 C
+Halogens connected to non carbons
+S bonded to an N and a C
+S atoms bonded to N
+CH2= units
+Alkali (group IA ) elements
+S atoms in rings
+C bonded to >= 1 O & >=2 N
+C bonded >= 2 N and 1 C
+S atoms bonded to 3 O
+S single bonded to OQ2
+N in C
+Fluorine atoms
+X-H heteroatoms 2 bonds from another
+Other elements
+N atoms adjacent to -C=C
+Bromine atoms
+S two bonds from an N
+Non C bonded to >= 3 O
+Charged atoms
+C in C=C bonded to >= 3 C
+S bonded to a C and an O
+N bonded to N
+QH 4 bonds from another QH
+QH 3 bonds from another QH
+S bonded to >=2 O
+N bonded to >= 2O and >= 1 C
+O in rings
+S bonded to >=2 non-carbon atoms
+Non-aromatic S-[a]
+[S+]-[O-]
+SQ3
+Non-ring bonds that connect rings
+N atoms in double bonds with O
+Non-ring S attached to a ring
+N in aromatic bonds with C
+CX4 bonded to >=3 carbons
+S attached to heteroatoms
+QH bonded to another QH
+QH bonded to another Q
+N bonded to two non-C heavy atoms
+N bonded to O
+O separated by 3 bonds
+S in double/charge separated bonds
+Dimethyl substituted atoms
+N non-ring bonded to a ring
+C in C=C bonded to >= 3 heavy atoms
+N separated by 2 bonds
+N double bonded to C
+N separated by 3 bonds
+N separated by 4 bonds
+S attached to Q >= 3 atoms
+Heteratoms attached to a CH2
+Heteroatoms in 5 ring
+NH2 groups
+N bonded to >= 3 C
+CH2 or CH3 separated by non-C
+Halogens bonded to any ring
+Sulfurs
+O separated by 4 bonds
+Het. 3 bonds from a CH2
+Het. 4 bonds from a CH2
+"C bonded to >=1 N, >=1 C & >= 1 O"
+Methylated heteroatoms
+N bonded to non C
+O 3 bonds from an N
+Atoms in 5-rings
+O 4 bonds from an N
+Het. in 6-ring
+C in C=C
+N attached to CH2
+Atoms in 8-ring or higher
+O bonded to non C heavy atoms
+Chlorine atoms
+Hets. 2 bonds from a CH2
+Hets. ring bonded to a 3-ring bond X
+X bonded to >= 3 non-C
+XQ>3 bonded to at least 1 halogen
+CH3 4 bonds from a CH2
+O attached to CH2
+O 1 C from an N
+N 2 bonds from a CH2
+Atoms with coordination number >= 4
+O in non-aromatic bonds to an [a]
+CH3 attached to CH2
+CH3 2 bonds from a CH2
+CH3 3 bonds from a CH2
+N 2 bonds from an O
+Key(147)-1 if key(147)>1; else 0
+N in double bonds
+Key(137)-1 if key(137)>1; else 0
+N in rings
+N with coordination number >=3
+O separated by 1 C
+Het-het bonds
+Aromatic ring > 1?
+Non-ring O bonded to 2 heavy atoms
+Key(143)-1 if key(143)>1; else 0
+CH2s separated by 4 bonds
+CH2s separated by 3 bonds
+Key(124)-1 if key(124)>1; else 0
+Het atoms with H
+O 2 bonds from CH2
+N non-ring bonded to a ring
+Halogens
+N in a non-aromatic bond with [a]
+Is there more than 1 O=
+Ring heterocycle atoms
+Key(153)-1 if key(153)>1; else 0
+OH groups
+Key(164)-3 if key(164)>3; else 0
+Key(160)-2 if key(160)>2; else 0
+Key(161)-2 if key(161)>1; else 0
+Non ring O connected to a ring
+Atoms separated by (!:):(!:)
+6M ring > 1
+Key(164)-2 if key(164)>2; else 0
+CH2 attached to CH2
+Non-C with coordination number >=3
+Key(160)-1 if key(160)>1; else 0
+X separated by (!r)-r-(!r)
+NH
+C bonded to >=2 C and 1 O
+Non-carbons attached to CH2
+O in C=O
+Non-ring CH2
+XN where coord. 
+O in C-O single bonds
+N in C-N single bonds
+Key(164)-1 if key(164)>1; else 0
+CH3 groups
+N
+Aromatics
+Atoms in 6 rings
+Oxygens
+Ring atoms
+Is there more than 1 fragment?
